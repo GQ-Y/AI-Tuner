@@ -32,8 +32,8 @@
 ### 2. 安装步骤
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/construction-safety-analysis.git
-cd construction-safety-analysis
+git clone https://github.com/GQ-Y/AI-Tuner.git
+cd AI-Tuner
 
 # 创建虚拟环境（可选但推荐）
 python -m venv venv
