@@ -1,0 +1,10 @@
+{
+    "api_keys": {
+        "\u667a\u8c31AI": "dc7da8adee219374f5ce0fda689f4adb.1H4BYlaHC1o63Mah",
+        "Anthropic": "123",
+        "\u901a\u4e49\u5343\u95ee": "12222",
+        "Mistral AI": "y0aNpDwQtyAQhJlIBtscbdSWm6C2Ogax"
+    },
+    "selected_provider": "Mistral AI",
+    "selected_model": "Mistral Vision"
+}
